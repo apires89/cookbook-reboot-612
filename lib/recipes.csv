@@ -1,0 +1,12 @@
+name,description,rating,done,prep_time
+Beans & Bacon breakfast,Beans description,0.0,true,5 mins
+Plum pudding,Pudding description,0.0,false,5 mins
+Apple pie,Apple pie description,0.0,false,5 mins
+Christmas crumble,Crumble description,0.0,false,5 mins
+chocapic,milk and cereal,0.0,false,5 mins
+Banana Flips,Two moist layers banana cake with a light and fluffy banana cream in between.,0.0,true,5 mins
+burger,juicy,3.0,false,5 mins
+Traditional British Fish Pie,A rendering of the classic British fish pie. This is a very tasty fish pie without the 'tweaks' of some newer versions; it was traditionally a relatively simple dish.,5.0,false,5 mins
+cake,chocolate,5.0,false,5 mins
+salad,green,3.0,false,5
+Very Banana-y Whole Wheat Banana Bread,Healthy banana bread.,4.71,false,15 mins
